@@ -1,6 +1,6 @@
 # Cedar Salal Silvertail
 
-## [PDFs](https://github.com/pparocza/GHDnD/tree/PC/cedar-salal-silvertail/Characters/PC/PC_Druid/PC_SHEET_Sorcerer/PDF)
+## [PDFs](https://github.com/pparocza/GHDnD/tree/PC/cedar-salal-silvertail/Characters/PC/PC_Druid/PC_SHEET_Druid/PDF)
 
 ### [Backstory](https://github.com/pparocza/GHDnD/blob/PC/cedar-salal-silvertail/Characters/PC/PC_Druid/PC_SHEET_Druid/PDF/PC_BSTR_Druid.pdf)
 ### [Features](https://github.com/pparocza/GHDnD/blob/PC/cedar-salal-silvertail/Characters/PC/PC_Druid/PC_SHEET_Druid/PDF/PC_FEATURES_Druid.pdf)
