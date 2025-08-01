@@ -1,4 +1,4 @@
-# Cedar Salal Silvertail
+# Nyx Shamog
 
 ## [PDFs](https://github.com/pparocza/GHDnD/tree/PC/cedar-salal-silvertail/Characters/PC/PC_Druid/PC_SHEET_Druid/PDF)
 
