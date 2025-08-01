@@ -1,11 +1,10 @@
 # Nyx Shamog
 
-## [PDFs](https://github.com/pparocza/GHDnD/tree/PC/cedar-salal-silvertail/Characters/PC/PC_Druid/PC_SHEET_Druid/PDF)
+## [PDFs](https://github.com/pparocza/GHDnD/tree/PC/nyx-shamog/Characters/PC/PC_Barbarian/PC_SHEET_Barbarian/PDF)
 
-### [Backstory](https://github.com/pparocza/GHDnD/blob/PC/cedar-salal-silvertail/Characters/PC/PC_Druid/PC_SHEET_Druid/PDF/PC_BSTR_Druid.pdf)
-### [Features](https://github.com/pparocza/GHDnD/blob/PC/cedar-salal-silvertail/Characters/PC/PC_Druid/PC_SHEET_Druid/PDF/PC_FEATURES_Druid.pdf)
-### [Wild Forms](https://github.com/pparocza/GHDnD/blob/PC/cedar-salal-silvertail/Characters/PC/PC_Druid/PC_SHEET_Druid/PDF/PC_Druid-Wild_Forms.pdf)
-### [Sheet](https://github.com/pparocza/GHDnD/blob/PC/cedar-salal-silvertail/Characters/PC/PC_Druid/PC_SHEET_Druid/PDF/PC_SHEET_Druid.pdf)
-### [Spells](https://github.com/pparocza/GHDnD/blob/PC/cedar-salal-silvertail/Characters/PC/PC_Druid/PC_SHEET_Druid/PDF/PC_SPELLS_Druid.pdf)
+### [Backstory](https://github.com/pparocza/GHDnD/blob/PC/nyx-shamog/Characters/PC/PC_Barbarian/PC_SHEET_Barbarian/PDF/PC_BSTR_Barbarian-Fighter.pdf)
+### [Features](https://github.com/pparocza/GHDnD/blob/PC/nyx-shamog/Characters/PC/PC_Barbarian/PC_SHEET_Barbarian/PDF/PC_FEATURES_Barbarian-Fighter.pdf)
+### [Sheet](https://github.com/pparocza/GHDnD/blob/PC/nyx-shamog/Characters/PC/PC_Barbarian/PC_SHEET_Barbarian/PDF/PC_SHEET_Barbarian-Fighter.pdf)
+### [Weapon Masteries](https://github.com/pparocza/GHDnD/blob/PC/nyx-shamog/Characters/PC/PC_Barbarian/PC_SHEET_Barbarian/PDF/PC_WPN_MSTR_Barbarian-Fighter.pdf)
 
-## [OpenOffice Docs](https://github.com/pparocza/GHDnD/tree/Doc/cedar-salal-silvertail/Characters/PC/PC_Druid/PC_SHEET_Druid/PDF)
+## [OpenOffice Docs](https://github.com/pparocza/GHDnD/tree/Doc/nyx-shamog/Characters/PC/PC_Barbarian/PC_SHEET_Barbarian/PDF)
