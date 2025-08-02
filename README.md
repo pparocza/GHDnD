@@ -8,4 +8,4 @@
 ### [Sheet](https://github.com/pparocza/GHDnD/blob/PC/cedar-salal-silvertail/Characters/PC/PC_Druid/PC_SHEET_Druid/PDF/PC_SHEET_Druid.pdf)
 ### [Spells](https://github.com/pparocza/GHDnD/blob/PC/cedar-salal-silvertail/Characters/PC/PC_Druid/PC_SHEET_Druid/PDF/PC_SPELLS_Druid.pdf)
 
-## [OpenOffice Docs](https://github.com/pparocza/GHDnD/tree/Doc/cedar-salal-silvertail/Characters/PC/PC_Druid/PC_SHEET_Druid/PDF)
+## [OpenOffice Docs](https://github.com/pparocza/GHDnD/tree/PC/cedar-salal-silvertail/Characters/PC/PC_Druid/PC_SHEET_Druid/Doc)
