@@ -1,4 +1,4 @@
-# snas-damsu
+# Snas Damsu
 
 ## [PDFs](https://github.com/pparocza/GHDnD/tree/PC/snas-damsu/Characters/PC/PC_Monk/PC_SHEET_Monk/PDF)
 
