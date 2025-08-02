@@ -1,11 +1,12 @@
-# Nyx Shamog
+# Faceless
 
-## [PDFs](https://github.com/pparocza/GHDnD/tree/PC/cedar-salal-silvertail/Characters/PC/PC_Druid/PC_SHEET_Druid/PDF)
+## [PDFs](https://github.com/pparocza/GHDnD/tree/PC/faceless/Characters/PC/PC_Paladin/PC_SHEET_Paladin/PDF)
 
-### [Backstory](https://github.com/pparocza/GHDnD/blob/PC/cedar-salal-silvertail/Characters/PC/PC_Druid/PC_SHEET_Druid/PDF/PC_BSTR_Druid.pdf)
-### [Features](https://github.com/pparocza/GHDnD/blob/PC/cedar-salal-silvertail/Characters/PC/PC_Druid/PC_SHEET_Druid/PDF/PC_FEATURES_Druid.pdf)
-### [Wild Forms](https://github.com/pparocza/GHDnD/blob/PC/cedar-salal-silvertail/Characters/PC/PC_Druid/PC_SHEET_Druid/PDF/PC_Druid-Wild_Forms.pdf)
-### [Sheet](https://github.com/pparocza/GHDnD/blob/PC/cedar-salal-silvertail/Characters/PC/PC_Druid/PC_SHEET_Druid/PDF/PC_SHEET_Druid.pdf)
-### [Spells](https://github.com/pparocza/GHDnD/blob/PC/cedar-salal-silvertail/Characters/PC/PC_Druid/PC_SHEET_Druid/PDF/PC_SPELLS_Druid.pdf)
+### [Backstory](https://github.com/pparocza/GHDnD/blob/PC/faceless/Characters/PC/PC_Paladin/PC_SHEET_Paladin/PDF/PC_BSTR_Paladin.pdf)
+### [Channel Divinity](https://github.com/pparocza/GHDnD/blob/PC/faceless/Characters/PC/PC_Paladin/PC_SHEET_Paladin/PDF/PC_CHN_DVN_Paladin.pdf)
+### [Features](https://github.com/pparocza/GHDnD/blob/PC/faceless/Characters/PC/PC_Paladin/PC_SHEET_Paladin/PDF/PC_FEATURES_Paladin.pdf)
+### [Sheet](https://github.com/pparocza/GHDnD/blob/PC/faceless/Characters/PC/PC_Paladin/PC_SHEET_Paladin/PDF/PC_SHEET_Paladin.pdf)
+### [Spells](https://github.com/pparocza/GHDnD/blob/PC/faceless/Characters/PC/PC_Paladin/PC_SHEET_Paladin/PDF/PC_SPELLS_Paladin.pdf)
+### [Weapon Mastery](https://github.com/pparocza/GHDnD/blob/PC/faceless/Characters/PC/PC_Paladin/PC_SHEET_Paladin/PDF/PC_WPN_MSTR_Paladin.pdf)
 
-## [OpenOffice Docs](https://github.com/pparocza/GHDnD/tree/Doc/cedar-salal-silvertail/Characters/PC/PC_Druid/PC_SHEET_Druid/PDF)
+## [OpenOffice Docs](https://github.com/pparocza/GHDnD/tree/PC/faceless/Characters/PC/PC_Paladin/PC_SHEET_Paladin/Doc)
